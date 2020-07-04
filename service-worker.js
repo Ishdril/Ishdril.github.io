@@ -1,9 +1,9 @@
 const cacheName = 'cache-v2';
 const precacheResources = [
   '/',
-  '/index.html',
-  '/style.css',
-  '/images/bernat_duran.jpg',
+  'index.html',
+  'style.css',
+  'images/bernat_duran.jpg',
 ];
 
 self.addEventListener('install', event => {
