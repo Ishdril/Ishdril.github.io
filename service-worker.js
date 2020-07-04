@@ -1,6 +1,5 @@
 const cacheName = 'cache-v1';
 const precacheResources = [
-  '/',
   'index.html',
   'style.css',
   'images/bernat_duran.jpg',
