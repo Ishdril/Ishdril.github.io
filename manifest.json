@@ -1,7 +1,7 @@
 {
   "name": "Bernat Duran Portfolio",
   "short_name": "PortfolioBD",
-  "dscription": "Personal portfolio of Bernat Duran, Front-end developer"
+  "dscription": "Personal portfolio of Bernat Duran, Front-end developer",
   "theme_color": "#455a64",
   "background_color": "#455a64",
   "display": "standalone",
